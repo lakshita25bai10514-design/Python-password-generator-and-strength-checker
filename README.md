@@ -34,8 +34,3 @@ text
 ## Testing
 Tested with various input combinations to validate password generation and strength evaluation.
 
-## Screenshots
-*(Optional - add screenshots here if available)*
-
-## License
-*(Add license information if applicable)*
